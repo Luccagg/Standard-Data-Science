@@ -1,2 +1,2 @@
 # Standard-Data-Science
-standard algoritmns of data science implemented in python
+standard algorithms of data science implemented in python
